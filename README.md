@@ -20,11 +20,14 @@ The program divides the canvas into 22 sections and populates each section with 
 ```python kaleidoscope.py```
 
 ## Usage
-Generate New Patterns: Click anywhere on the canvas to generate a new set of random shapes and colors.
-Pause/Resume Rotation: Press the spacebar to pause or resume the rotation.
-Technologies Used
-Python
-Pygame
+#### Generate New Patterns: Click anywhere on the canvas to generate a new set of random shapes and colors.
+#### Pause/Resume Rotation: Press the spacebar to pause or resume the rotation.
+
+## Outcomes
+![Screenshot 2024-07-22 110229](https://github.com/user-attachments/assets/492992e3-d76c-4a10-be08-2f3e68485f44)
+![Screenshot 2024-07-22 110303](https://github.com/user-attachments/assets/e2ee6a44-473f-4d87-a112-0fa66d023a3a)
+
+
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Any improvements to the functionality or new features are welcome!
